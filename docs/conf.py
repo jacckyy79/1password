@@ -1,4 +1,4 @@
-project = '1password'
+project = '1password Account'
 author = 'Your Name'
 release = '1.0'
 
@@ -14,4 +14,3 @@ html_js_files = [
     '_static/chat.js',
 ]
 
-conf.py
