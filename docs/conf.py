@@ -1,4 +1,4 @@
-project = 'Email Help'
+project = '1password'
 author = 'Your Name'
 release = '1.0'
 
@@ -13,3 +13,5 @@ html_js_files = [
     'chat.js',
     '_static/chat.js',
 ]
+
+conf.py
